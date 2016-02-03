@@ -1,0 +1,8 @@
+name: Mtcars_Analysis_Tool
+account: augustinjossa
+server: shinyapps.io
+bundleId: 365007
+url: https://augustinjossa.shinyapps.io/Mtcars_Analysis_Tool/
+when: 1454490577.27558
+asMultiple: FALSE
+asStatic: FALSE
