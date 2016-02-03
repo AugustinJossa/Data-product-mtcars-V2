@@ -13,7 +13,7 @@ The tab navigation bar enables you to :
 - access to the data table
 
 Here is the link for our application :
-https://augustinjossa.shinyapps.io/Data-Product-mtcars/
+https://augustinjossa.shinyapps.io/Data-product-mtcars-V2/
 
 ###Mtcars database description
 
